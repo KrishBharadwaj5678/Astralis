@@ -1,4 +1,4 @@
-# 🌌 Welcome to SpaceExplorer AR! 🚀  
+# 🌌 Welcome to Astralis AR! 🚀  
 
 **✨ Bring Space to Life in Augmented Reality! ✨**  
 Explore the cosmos like never before with **stunning 3D models** of planets, rovers, and asteroids that come alive when you scan their images. Dive into the universe and interact with celestial wonders—all from your device!  
