@@ -27,7 +27,7 @@ Follow these simple steps to embark on your space adventure with SpaceExplorer A
 ---
 
 ### **Step 4:**  
-📸 **Scan any of the celestial images** you downloaded to summon detailed 3D models of planets, rovers, and asteroids.  
+📸 **Scan any of the celestial images** you downloaded to summon detailed 3D models.  
 
 ---
 
